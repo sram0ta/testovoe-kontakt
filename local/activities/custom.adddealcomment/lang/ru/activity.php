@@ -1,0 +1,3 @@
+<?php
+$MESS['CUSTOM_ADD_DEAL_COMMENT_PROP_DEAL'] = 'ID сделки';
+$MESS['CUSTOM_ADD_DEAL_COMMENT_PROP_MSG'] = 'Комментария';

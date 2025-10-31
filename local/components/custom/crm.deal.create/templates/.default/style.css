@@ -1,0 +1,73 @@
+.c-crm-deal-create {
+    max-width: 760px;
+    padding: 16px;
+    border: 1px solid #e3e6eb;
+    border-radius: 12px;
+    background: #fff
+}
+
+.c-field {
+    margin-bottom: 14px
+}
+
+.c-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c9d0db;
+    border-radius: 8px
+}
+
+.c-actions {
+    margin-top: 18px
+}
+
+.c-btn {
+    padding: 10px 14px;
+    border: 1px solid #c9d0db;
+    border-radius: 10px;
+    background: #f3f6fb;
+    cursor: pointer
+}
+
+.c-btn--primary {
+    background: #2fc6f6;
+    color: #fff;
+    border-color: #2fc6f6
+}
+
+.req {
+    color: #d33;
+    margin-left: 4px
+}
+
+.c-flex {
+    display: flex;
+    gap: 8px;
+    align-items: center
+}
+
+.c-suggest {
+    position: relative
+}
+
+.c-suggest ul {
+    position: absolute;
+    z-index: 10;
+    list-style: none;
+    margin: 4px 0 0;
+    padding: 6px;
+    background: #fff;
+    border: 1px solid #c9d0db;
+    border-radius: 8px;
+    width: 100%
+}
+
+.c-suggest li {
+    padding: 6px;
+    border-radius: 6px;
+    cursor: pointer
+}
+
+.c-suggest li:hover {
+    background: #f0f6ff
+}
